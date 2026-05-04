@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "LemonStudios",
-    "slug": "LemonStudios",
+    "slug": "lemonstudios",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -20,7 +20,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.pintujha15.LemonStudios"
     },
     "web": {
       "output": "static",
@@ -44,6 +45,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "6560b238-5b92-4edd-a61b-63050a704479"
+      }
+    },
+    "owner": "pintujha15"
   }
 }

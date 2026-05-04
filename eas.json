@@ -12,14 +12,6 @@
       "distribution": "internal",
       "android": {
         "buildType": "apk"
-      },
-      "env": {
-        "EXPO_PUBLIC_FIREBASE_API_KEY": "AIzaSyCMndTf3EwVDdgdDHdgUwyJxLe3AEOEYqo",
-        "EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN": "lemonstudios-b9d84.firebaseapp.com",
-        "EXPO_PUBLIC_FIREBASE_PROJECT_ID": "lemonstudios-b9d84",
-        "EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET": "lemonstudios-b9d84.firebasestorage.app",
-        "EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": "570417646060",
-        "EXPO_PUBLIC_FIREBASE_APP_ID": "1:570417646060:web:f14ce73ad2fdd9fb88d8c9"
       }
     },
     "production": {}
